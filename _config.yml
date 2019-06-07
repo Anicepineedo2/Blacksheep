@@ -110,4 +110,4 @@ exclude:
 
 excerpt_separator: ---
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-time-machine
