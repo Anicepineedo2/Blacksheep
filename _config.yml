@@ -36,14 +36,15 @@ paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://www.weibo.com/dustcapture  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: https://www.weibo.com/6384770033  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: https://www.weibo.com/1005051767117462
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: #fromendworld@outlook.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: #FromEndWorld/loffer #https://github.com/<>
-  instagram: https://instagram.com/Anicepineedo2
+  instagram: #https://instagram.com/Anicepineedo2
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
