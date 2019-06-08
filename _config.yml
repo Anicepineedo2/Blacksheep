@@ -14,16 +14,16 @@ description: 只有我是一只纯黑的羊。
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://i.ibb.co/LPtT07b/image.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://ibb.co/pfY29CH
 
 
 # 菜单中的按钮
 navigation:
   - name: 首页
-    url: /
+    url: /homepage
   - name: 关于
     url: /about
   - name: 归档
@@ -42,7 +42,7 @@ footer-links:
   email: #fromendworld@outlook.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: #FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -53,10 +53,10 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: 感谢观看
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
-disqus: loffer #shortname
+disqus: blacksheep-4 #shortname
 
 # 输入Google Analytics web tracking code
 google_analytics:
@@ -67,7 +67,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /Blacksheep
 
 
 #
