@@ -5,16 +5,16 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: Blacksheep
+name: 黒い羊
 # 描述/签名
-description: 喜欢养狗，不爱洗头。
+description: 在纯白的群体里格格不入。
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://ibb.co/Yt79mL4
+avatar: https://i.ibb.co/sFvSnVp/xin.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://ibb.co/pfY29CH
