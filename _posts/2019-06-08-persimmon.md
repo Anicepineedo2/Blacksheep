@@ -1,4 +1,13 @@
-# 林柿
+---
+layout: post
+title: 林柿
+date: 2019-06-08
+Author: 草草&派派
+categories: 舅舅的养狗日记
+tags: [段邢,NC-17,rps]
+comments: true
+---
+> _jmmb_
 
 妹妹，神经症的妹妹，幼稚妹妹，敏感妹妹，妹妹病娇娇，控制欲好强，不许姐姐找别的男的鬼混，把姐姐的男人都赶跑。
 
