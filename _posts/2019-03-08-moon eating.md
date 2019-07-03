@@ -1,3 +1,4 @@
+---
 layout: post
 title: 月食
 date: 2019-03-08
@@ -5,6 +6,7 @@ Author: 派派
 categories: 舅舅的养狗日记
 tags: [邢段,段邢,rps]
 comments: true
+---
 
 
 
