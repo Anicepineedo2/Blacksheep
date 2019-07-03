@@ -1,11 +1,12 @@
+---
 layout: post
 title: 裸线
 date: 2018-12-27
 Author: 派派
-categories: 狗狗的快乐生活
+categories: 舅舅的养狗日记
 tags: [段邢,NC-17,rps]
 comments: true
-
+---
 
 
 每到这个季节，夜晚的时间便吞没了白天，人们开始停转，大把的时间只用来呆滞与空耗，寒冷而干燥的北京的冬天。
