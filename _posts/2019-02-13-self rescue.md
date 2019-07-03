@@ -1,3 +1,4 @@
+---
 layout: post
 title: 自救
 date: 2019-02-13
@@ -5,6 +6,7 @@ Author: 派派
 categories: 狗狗的快乐生活
 tags: [邢段,NC-17,rps]
 comments: true
+---
 
 
 
@@ -77,4 +79,4 @@ comments: true
 
 fin
 
-*瓦尔泽《诗摘》
+*瓦尔泽《诗摘》*
