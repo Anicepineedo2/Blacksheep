@@ -1,5 +1,4 @@
-
-
+---
 layout: post
 title: 振幅
 date: 2019-08-06
@@ -7,6 +6,7 @@ Author: 派派
 categories: 狗狗的快乐生活
 tags: [无证之罪,记忆大师]
 comments: true
+---
 
 
 
