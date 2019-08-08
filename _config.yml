@@ -111,4 +111,4 @@ exclude:
 
 excerpt_separator: ---
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-time-machine
