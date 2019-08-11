@@ -1,3 +1,4 @@
+---
 layout: post
 title: 蓝蓝
 date: 2018-12-05
@@ -5,7 +6,7 @@ Author: 派派
 categories: 狗狗的快乐生活
 tags: [all段, NC-17, rps]
 comments: true
-
+---
 
 
 从上铺掉下去，会死吗？
