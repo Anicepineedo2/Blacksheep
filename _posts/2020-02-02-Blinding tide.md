@@ -1,6 +1,6 @@
 ---
 layout: post
-title:盲潮
+title: 盲潮
 date: 2020-02-02
 Author: 派派
 categories: 
